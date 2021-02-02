@@ -1,4 +1,4 @@
-### 박현우라고 합니다.
+### 반갑습니다. 제 이름은 박현우라고 합니다.
 #### 방문해 주셔서 감사합니다. 👋
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
