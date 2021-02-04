@@ -1,5 +1,6 @@
-### 반갑습니다. 제 이름은 박현우라고 합니다.
-#### 방문해 주셔서 감사합니다. 👋
+## 제 github에 방문해 주셔서 감사합니다. 
+### 저는 박현우라고 합니다. 😄 
+### 'Be the best version of you!' 👋 
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/></a>
