@@ -1,5 +1,5 @@
 ## 제 github에 방문해 주셔서 감사합니다. 
-### 포트폴리오 : https://gusdn3477.github.io/mysite/one-page-template-master/index.html (공사중입니다)<br>
+### https://gusdn3477.github.io/mysite/one-page-template-master/index.html (공사중입니다)<br>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C/C++-ABB9CC?style=flat-square&logo=C&logoColor=white"/></a>
