@@ -1,14 +1,4 @@
-### 제 github에 방문해 주셔서 감사합니다.</div> 
-<!--### https://gusdn3477.github.io/mysite/one-page-template-master/index.html (공사중입니다)<br>
-
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C/C++-ABB9CC?style=flat-square&logo=C&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JAVASCRIPT&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a> !-->
-
+### 안녕하세요! </div> 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusdn3477&show_icons=true)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusdn3477&layout=compact)](https://github.com/gusdn3477/github-readme-stats)
