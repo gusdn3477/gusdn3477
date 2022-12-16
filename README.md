@@ -30,6 +30,7 @@
 
 **ETC**
  - [그림으로 이해하는 가상화와 컨테이너)](http://www.yes24.com/Product/Goods/115457586) Beta Reader
+ - [Node.js 교과서 기본기에 충실한 노드제이에스 18 입문서](http://www.yes24.com/Product/Goods/116192535) Beta Reader
 
 ## Cards
 
