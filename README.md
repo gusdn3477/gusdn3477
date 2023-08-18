@@ -28,9 +28,10 @@
 ### Activity
 
 **ETC**
- - [그림으로 이해하는 가상화와 컨테이너)](http://www.yes24.com/Product/Goods/115457586) Beta Reader
+ - [그림으로 이해하는 가상화와 컨테이너](http://www.yes24.com/Product/Goods/115457586) Beta Reader
  - [Node.js 교과서 기본기에 충실한 노드제이에스 18 입문서](http://www.yes24.com/Product/Goods/116192535) Beta Reader
  - [취업과 이직을 위한 프로그래머스 코딩 테스트 문제 풀이 전략 : 파이썬 편](http://www.yes24.com/Product/Goods/117372831) Beta Reader
+ - [타입스크립트 교과서 - 기본기에 충실한 타입스크립트 올인원(기본 문법+실전 분석)](https://www.yes24.com/Product/Goods/121208343) Beta Reader
 ## Cards
 
 <div align="center">
