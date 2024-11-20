@@ -8,7 +8,7 @@
 ### 💻 Major Work Experience
 | Role | Company | Period |
 |---|---|---|
-| Frontend Developer |[Tmax WAPL](https://wapl.ai/)|2022.03. ~ now|
+| Frontend Developer |[Tmax WAPL](https://wapl.ai/)|2022.03. ~ 2024.11|
 
 ## ⚒ Tech Skill
 |Classification|Skills|
