@@ -1,8 +1,4 @@
 ## 🙋‍♂️ Introduction
-<div align="center">
-
-[[박현우의 포트폴리오](https://gusdn3477.notion.site/PARK-HYUN-WOO-1ad917840d1e8053a326c626ca960944)]
-</div>
 
 ### 💻 Major Work Experience
 | Role | Company | Period |
