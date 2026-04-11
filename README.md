@@ -15,6 +15,7 @@
 ### Activity
 
 **ETC**
+ - 2026 오픈소스 컨트리뷰션 아카데미 [체험형] 멘티 2026.04.20 ~ 2026.06.02
  - IT 희망학교 9기 멘토(2023) / 10기 보조강사 및 멘토(2024) / 11기 보조강사 및 멘토(2025)
  - [그림으로 이해하는 가상화와 컨테이너](http://www.yes24.com/Product/Goods/115457586) Beta Reader
  - [Node.js 교과서 기본기에 충실한 노드제이에스 18 입문서](http://www.yes24.com/Product/Goods/116192535) Beta Reader
