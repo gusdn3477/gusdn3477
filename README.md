@@ -3,7 +3,7 @@
 ### 💻 Major Work Experience
 | Role | Company | Period |
 |---|---|---|
-| Frontend Developer |[Humanscape](https://humanscape.io/kr/)|2025.04. ~ ing|
+| Frontend Developer |[LifeX(Humanscape)](https://humanscape.io/kr/)|2025.04. ~ ing|
 | Frontend Developer |Tmax WAPL|2022.03. ~ 2024.11|
 
 
