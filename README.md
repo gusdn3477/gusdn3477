@@ -4,7 +4,7 @@
 | Role | Company | Period |
 |---|---|---|
 | Frontend Developer |[Humanscape](https://humanscape.io/kr/)|2025.04. ~ ing|
-| Frontend Developer |[Tmax WAPL](https://wapl.ai/)|2022.03. ~ 2024.11|
+| Frontend Developer |Tmax WAPL|2022.03. ~ 2024.11|
 
 
 ### 📜 Certificate
